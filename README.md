@@ -36,6 +36,5 @@ This project focuses on extracting and analyzing **laptop product data from Flip
 - i5 and Ryzen 5 processors dominate the mid-range market
 - SSD-based laptops tend to be priced higher but have better ratings
 - Higher RAM and SSD combinations positively impact customer ratings
-- ![Laptop Data Analysis]("C:\Users\hp\Downloads\rating vs Ram and Rom.png")
 
 
